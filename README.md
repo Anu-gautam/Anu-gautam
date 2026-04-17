@@ -1,59 +1,104 @@
-# Hi, I'm Anushka Gautam!
+# Hi, I'm Anushka Gautam 👋
 
-**Django Developer | Python Enthusiast | Full-Stack Web Learner**
+**Data Analyst | Python · Power BI · Excel · SQL**
 
-I'm a developer passionate about building robust backend systems using **Django** and **Django REST Framework**, and exploring the frontend world with **Next.js**. Currently seeking **remote opportunities** where I can contribute to real-world projects, collaborate with like-minded devs, and grow as a full-stack developer.
+I turn raw, messy data into clear stories that help businesses make better decisions. Whether it's identifying why customers are leaving, spotting trends in large datasets, or building interactive dashboards that anyone can use — I make data accessible and actionable.
+
+I'm currently seeking **Data Analyst roles** where I can apply my analytical skills to real business problems.
 
 ---
 
-## 🔧 Tech Stack
+## 💡 What I Do
 
-- **Backend:** Django, Django REST Framework, MySQL
-- **Frontend:** Next.js (basic), HTML, CSS, Tailwind CSS
-- **Tools:** Git, GitHub, Postman((learning)), VSCode
-- **Other:** REST APIs, Responsive Web Design
+| Skill | What It Means in Practice |
+|-------|--------------------------|
+| **Data Cleaning** | Take messy, incomplete spreadsheets and turn them into reliable, analysis-ready data |
+| **Exploratory Analysis** | Dig into data to find patterns, trends, and outliers that answer business questions |
+| **Data Visualisation** | Build clear charts and interactive dashboards that make findings easy to understand |
+| **Machine Learning (Basics)** | Use predictive models to identify at-risk customers or forecast outcomes |
+| **Business Reporting** | Write plain-language reports that translate data findings into recommendations |
+| **Data Collection** | Automate the gathering of data from websites and online sources |
+
+---
+
+## 🛠️ Tools & Technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" title="Jupyter Notebook" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL / MySQL" title="SQL / MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
 
----
+<br>
 
-## 🧠 Currently Working On
-- Event Management System (Django + React + PostgreSQL)
-- Learning TypeScript and refining my Next.js skills
+| Category | Tools |
+|----------|-------|
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn) |
+| **Dashboards & Reporting** | Power BI, Jupyter Notebook |
+| **Spreadsheets** | Microsoft Excel |
+| **Databases** | SQL / MySQL |
+| **Version Control** | Git, GitHub |
 
 ---
 
 ## 📌 Featured Projects
 
-### [Event Management System](https://github.com/Anu-gautam/Event-Management-System)
-Multi-user event system with vendor uploads, customer orders, and admin controls.
+### 📡 [Telco Customer Churn Analysis](https://github.com/Anu-gautam/Telco-Churn-Analysis)
+> *Can we predict which telecom customers will cancel before they do?*
 
-### [Python Internship Projects](https://github.com/Anu-gautam/Python-Programming-Internship)
-Mini Python projects from my internship at TDS Avenue CodeForge.
+Analysed 7,000+ customer records to identify who was most likely to leave — and why. Built a predictive model that achieved **82% accuracy** and surfaced six clear business recommendations (e.g., customers on month-to-month contracts churn at 42% vs. 3% for two-year contracts).
+
+**Skills used:** Python · Pandas · Data Visualisation · Machine Learning · Business Insights
+
+---
+
+### 🏦 [Bank Customer Churn Analysis](https://github.com/Anu-gautam/Analyzed-Data-Projects)
+> *Why are bank customers closing their accounts — and what can the bank do about it?*
+
+Cleaned and analysed 10,000 customer records. Built an interactive **Power BI dashboard** so stakeholders could explore the data themselves, and delivered a business report with a targeted retention strategy (*Precision Retention*).
+
+**Key findings:** German customers churned at 2× the rate of other countries; customers with only one product were at the highest risk.
+
+**Skills used:** Excel · Power BI · Dashboard Design · Business Report Writing · Customer Segmentation
+
+---
+
+### 🕷️ [Amazon Data Scraper](https://github.com/Anu-gautam/Data-Scraper)
+> *Automated data collection from Amazon product listings.*
+
+Built a Python script that automatically collects product names, prices, ratings, and reviews from Amazon and saves them to a structured CSV file — ready for analysis.
+
+**Skills used:** Python · Web Scraping · Data Collection · CSV / Structured Data
+
+---
+
+### 🤖 [Gesture Recognition — Sahayak](https://github.com/Anu-gautam/sahayak)
+> *Using computer vision to recognise hand gestures.*
+
+An early machine learning project using a Jupyter Notebook to classify hand gestures — demonstrating applied data and model work.
+
+**Skills used:** Python · Jupyter Notebook · Machine Learning
 
 ---
 
 ## ✨ Open to Work
-I'm actively looking for:
-- **Remote Django Developer Roles (Full-time / Internship / Freelance)**
-- **Full-Stack Projects (Frontend + Backend)**
 
-Feel free to connect with me or drop a message!
+I'm actively looking for:
+- **Data Analyst roles** (full-time, internship, or freelance)
+- **Business Intelligence / Reporting roles**
+- **Remote or hybrid opportunities**
+
+If you're looking for someone who can take a pile of data and turn it into something useful — let's talk!
 
 ---
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka-gautam-a1a19822a/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:your.anugautam1910@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:anugautam1910@gmail.com)
