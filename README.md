@@ -67,23 +67,6 @@ Cleaned and analysed 10,000 customer records. Built an interactive **Power BI da
 
 **Skills used:** Excel · Power BI · Dashboard Design · Business Report Writing · Customer Segmentation
 
----
-
-### 🕷️ [Amazon Data Scraper](https://github.com/Anu-gautam/Data-Scraper)
-> *Automated data collection from Amazon product listings.*
-
-Built a Python script that automatically collects product names, prices, ratings, and reviews from Amazon and saves them to a structured CSV file — ready for analysis.
-
-**Skills used:** Python · Web Scraping · Data Collection · CSV / Structured Data
-
----
-
-### 🤖 [Gesture Recognition — Sahayak](https://github.com/Anu-gautam/sahayak)
-> *Using computer vision to recognise hand gestures.*
-
-An early machine learning project using a Jupyter Notebook to classify hand gestures — demonstrating applied data and model work.
-
-**Skills used:** Python · Jupyter Notebook · Machine Learning
 
 ---
 
